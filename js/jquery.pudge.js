@@ -1,7 +1,7 @@
 /**
  * pudgeJs - JQuery plugin for sliding menus and blocks.
  * @version v0.1.4
- * @link http://gitlab.dev.cs.m/mihail.domozhirov/pudgejs
+ * @link https://github.com/FaKeJl/pudgeJS/
  * @update 07.11.15
  * @license MIT
  */
