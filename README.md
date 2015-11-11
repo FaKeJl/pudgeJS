@@ -28,7 +28,12 @@ jQuery-плагин, предназначеный для "выезжающего
 	bottom: 0;
 	width: 100%;
 	overflow-y: auto;
-	overflow-x: hidden;
+	-webkit-overflow-scrolling: touch;
+}
+
+// Цвет для подложки
+.pudgeJS-overlay {
+	background-color: rgba(0, 0, 0, .7);
 }
 ```
 
